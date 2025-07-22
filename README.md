@@ -8,6 +8,8 @@ This MATLAB App provides a graphical interface to perform **Direction of Arrival
 
 The app visualizes the spatial spectrum of these methods and identifies the estimated angles of arrival (AOA) of the signal sources. Users can compare algorithmic performance directly on the GUI.
 
+![DOA Estimation Demo](DOA_App.png)
+
 ---
 
 ## 💻 App Features
