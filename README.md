@@ -38,7 +38,7 @@ The app allows user to set the following parameters:
 
 ## 📁 Files
 
-📂 DOA_Estimation_App/
+📂 DOA_Estimation_App <br>
 ├── DOA_estimation.mlapp          % Main App (GUI)<br>
 ├── find_peaks_doa.m              % Custom Peak detection function for DOA estimation<br>
 ├── number_sources_estimation.m   % Custom method to estimate number of sources using MDL <br>
